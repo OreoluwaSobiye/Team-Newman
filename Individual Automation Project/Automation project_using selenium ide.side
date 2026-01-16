@@ -48,7 +48,7 @@
         ["xpath=//main[@id='mainContent']/div/div/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "C*q8}cwNY6tj!S6"
+      "value": ""
     }, {
       "id": "05c84c09-7b37-4d9c-8187-d95449e3f0fc",
       "comment": "",
@@ -76,7 +76,7 @@
         ["xpath=//main[@id='mainContent']/div/div/div[2]/div/form/div/input", "xpath:idRelative"],
         ["xpath=//div/input", "xpath:position"]
       ],
-      "value": "mercysobiye@gmail.com"
+      "value": ""
     }, {
       "id": "5f665b26-b6e9-4c9a-9da4-ec74b50ea25d",
       "comment": "",
@@ -132,7 +132,7 @@
         ["xpath=//main[@id='mainContent']/div/div/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "n6@D.ZEnvQxa73E"
+      "value": ""
     }, {
       "id": "d4b9cb92-ff4f-425b-a0a0-cab2612a5d96",
       "comment": "",
@@ -285,7 +285,7 @@
         ["xpath=//section[@id='app-content-wrapper']/div[4]/section/section/div/aside/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "C*q8}cwNY6tj!S6"
+      "value": ""
     }, {
       "id": "81287364-edb1-450d-8fc3-43fc0cda5922",
       "comment": "",
@@ -313,7 +313,7 @@
         ["xpath=//section[@id='app-content-wrapper']/div[4]/section/section/div/aside/div[2]/div/form/div/input", "xpath:idRelative"],
         ["xpath=//aside/div[2]/div/form/div/input", "xpath:position"]
       ],
-      "value": "mercysobiye@gmail.com"
+      "value": ""
     }, {
       "id": "b67bb87b-2a2e-4d2b-a704-101bf97edadc",
       "comment": "",
@@ -383,7 +383,7 @@
         ["xpath=//section[@id='app-content-wrapper']/div[4]/section/section/div/aside/div[2]/div/form/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "n6@D.ZEnvQxa73E"
+      "value": ""
     }, {
       "id": "e007264f-b40f-47ed-a431-903f0a31c5ed",
       "comment": "",
